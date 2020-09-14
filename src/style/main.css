@@ -1,0 +1,52 @@
+.information {  padding: 30px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  line-height:75px;  }
+  
+.fa-envelope-open-text{
+  color:#575757;
+  font-size: xx-large;
+  font-weight: bold;
+  font-style: oblique;
+  line-height:50px;
+}
+
+.fa-map-marker-alt{
+  color:#575757;
+  font-size: xx-large;
+  font-weight: bold;
+  font-style: oblique;
+  line-height:50px;
+}
+
+.fa-phone-volume{
+  color:#575757;
+  font-size: xx-large;
+  font-weight: bold;
+  font-style: oblique;
+  line-height:50px;
+}
+.fa-github{
+  color:#575757;
+  font-size: xx-large;
+  font-weight: bold;
+  font-style: oblique;
+  line-height:50px;
+}
+  
+.fa-linkedin{
+  color:#575757;
+  font-size: xx-large;
+  font-weight: bold;
+  font-style: oblique;
+  line-height:50px;
+}
+.fa-id-card-alt{
+  color:#575757;
+  font-size: xx-large;
+  font-weight: bold;
+  font-style: oblique;
+  line-height:50px
+}
